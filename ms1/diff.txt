@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+[38;5;9mBegin Testing the Program!
+But your output is: 
+ms1: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by ms1)
+^
+|
+Professor's character ASCII code: hex(1b), dec(27)
+un-matched character ASCII code: hex(6d), dec(109)

@@ -1,0 +1,5 @@
+Originally in this lab, I defined one the derived product class and the ProdUtil cpp file to read the product information from the
+file. I then created the TaxableProduct class after this and I ran into many errors. 
+Later, I realized that I need to create the definitions for all the classes in the hierarchy. After this, and referring to the
+notes on derived classes from last semester. I used pointers to the iPointer class that would accomplish calling the correct 
+functions depending on the type of the object.

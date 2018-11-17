@@ -1,0 +1,2 @@
+In this workshop, I learned that if an exception is thrown in a function that requires dynamic memory allocation of a raw pointer,
+there will be memory leak. Whereas, in the same function with a smart pointer, there will be no memory leak upon the thrown exception.

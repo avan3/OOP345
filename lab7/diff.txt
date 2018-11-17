@@ -1,0 +1,10 @@
+
+In line number 6 of your output:
+The output should be:
+Command Line: ws w7_Simple.dat w7_HS_College_GPA.dat
+But your output is: 
+Command Line: ws w7_simple.dat w7_HS_College_GPA.dat
+                    ^
+--------------------|
+Professor's character ASCII code: hex(53), dec(83)
+un-matched character ASCII code: hex(73), dec(115)

@@ -1,0 +1,5 @@
+In the lecture, we learned about relationships between classes including compositions, aggregations and associations. 
+In the workshop, I learned how to apply the composition relationship. THe workshop requires you to create a message and notification class. 
+The notification class is responsible for the creation and destruction of the message object. The notification class would be 
+incomplete without a message object. 
+In addition, I learned about a few string member functions that I was previously unaware of including length(), find(). 

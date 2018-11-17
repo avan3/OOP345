@@ -1,0 +1,5 @@
+In workshop 7, I developed a better understanding of how to use the C++ algorithms. Initially, I thought that the algorithms do not
+return anything and that they would just modify the current variables you input into the algorithm. However, I realized that was wrong.
+For the C++ algorithms, they return a value that is the result of what the algorithm does. Knowing that, the lab became much easier.
+I saved the variable result from the algorithm and used them in the equations to solve the problems. The only thing I need to learn is
+what the order of operations is within an algorithm with a lambda. 

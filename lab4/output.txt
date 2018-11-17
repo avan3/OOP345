@@ -1,0 +1,35 @@
+Script started on Fri Oct  5 15:20:36 2018
+]0;avan3@mtrx-node02pd:~/school/semester3/oop/lab4[?1034h[avan3@mtrx-node02pd lab4]$ ws w4_prof_tweets.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws w4_prof_tweets.dat 
+
+Notifications
+=============
+
+Message
+ User  : jim
+ Tweet : Workshop 5 is cool
+
+Message
+ User  : harry
+ Reply : jim
+ Tweet : working on workshop 5 now
+
+Message
+ User  : dave
+ Tweet : what the ^#$%!
+
+Message
+ User  : john
+ Reply : harry
+ Tweet : I'm done
+
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;avan3@mtrx-node02pd:~/school/semester3/oop/lab4[avan3@mtrx-node02pd lab4]$ exit
+exit
+
+Script done on Fri Oct  5 15:20:41 2018

@@ -1,0 +1,8 @@
+For reading the file, because we do not save each line individually but save the entire file directly, I checked the entire size
+of the file before reading the values into the respective variables.
+In the letter.h, I had to read up on enumerations in the notes to find out that we need to create a switch case in order to select
+each element in the enumeration
+Since lambda functions are anonymous functions, I needed to create a function pointer to point to the function so I could pass it 
+into the displayGrades function call as the argument "letter"
+The rest of the displayGrades was a matter of solving which function call returns what and associating it with another function call
+until the conversion of the numeric grade into the letter grade occured. 

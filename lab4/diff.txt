@@ -1,0 +1,10 @@
+
+In line number 12 of your output:
+The output should be:
+ User  : jim
+But your output is: 
+ User : jim
+      ^
+------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(3a), dec(58)
